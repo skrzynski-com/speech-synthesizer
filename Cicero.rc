@@ -1,0 +1,234 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Polish resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_PLK)
+#ifdef _WIN32
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
+#pragma code_page(1250)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif\r\n"
+    "#include ""res\\Cicero.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+WAVE4                   WAVE    DISCARDABLE     "res\\4.wav"
+WAVE1                   WAVE    DISCARDABLE     "res\\1.wav"
+WAVE3                   WAVE    DISCARDABLE     "res\\3.wav"
+WAVE2                   WAVE    DISCARDABLE     "res\\2.wav"
+WAVE19                  WAVE    DISCARDABLE     "res\\19.wav"
+WAVE18                  WAVE    DISCARDABLE     "res\\18.wav"
+WAVE17                  WAVE    DISCARDABLE     "res\\17.wav"
+WAVE16                  WAVE    DISCARDABLE     "res\\16.wav"
+WAVE15                  WAVE    DISCARDABLE     "res\\15.wav"
+WAVE14                  WAVE    DISCARDABLE     "res\\14.wav"
+WAVE13                  WAVE    DISCARDABLE     "res\\13.wav"
+WAVE12                  WAVE    DISCARDABLE     "res\\12.wav"
+WAVE11                  WAVE    DISCARDABLE     "res\\11.wav"
+WAVE10                  WAVE    DISCARDABLE     "res\\10.wav"
+WAVE9                   WAVE    DISCARDABLE     "res\\9.wav"
+WAVE8                   WAVE    DISCARDABLE     "res\\8.wav"
+WAVE7                   WAVE    DISCARDABLE     "res\\7.wav"
+WAVE6                   WAVE    DISCARDABLE     "res\\6.wav"
+WAVE5                   WAVE    DISCARDABLE     "res\\5.wav"
+WAVE27                  WAVE    DISCARDABLE     "res\\27.wav"
+WAVE26                  WAVE    DISCARDABLE     "res\\26.wav"
+WAVE25                  WAVE    DISCARDABLE     "res\\25.wav"
+WAVE24                  WAVE    DISCARDABLE     "res\\24.wav"
+WAVE23                  WAVE    DISCARDABLE     "res\\23.wav"
+WAVE22                  WAVE    DISCARDABLE     "res\\22.wav"
+WAVE21                  WAVE    DISCARDABLE     "res\\21.wav"
+WAVE20                  WAVE    DISCARDABLE     "res\\20.wav"
+WAVE29                  WAVE    DISCARDABLE     "res\\29.wav"
+WAVE39                  WAVE    DISCARDABLE     "res\\39.wav"
+WAVE38                  WAVE    DISCARDABLE     "res\\38.wav"
+WAVE37                  WAVE    DISCARDABLE     "res\\37.wav"
+WAVE36                  WAVE    DISCARDABLE     "res\\36.wav"
+WAVE35                  WAVE    DISCARDABLE     "res\\35.wav"
+WAVE34                  WAVE    DISCARDABLE     "res\\34.wav"
+WAVE33                  WAVE    DISCARDABLE     "res\\33.wav"
+WAVE32                  WAVE    DISCARDABLE     "res\\32.wav"
+WAVE31                  WAVE    DISCARDABLE     "res\\31.wav"
+WAVE30                  WAVE    DISCARDABLE     "res\\30.wav"
+WAVE49                  WAVE    DISCARDABLE     "res\\49.wav"
+WAVE48                  WAVE    DISCARDABLE     "res\\48.wav"
+WAVE47                  WAVE    DISCARDABLE     "res\\47.wav"
+WAVE46                  WAVE    DISCARDABLE     "res\\46.wav"
+WAVE44                  WAVE    DISCARDABLE     "res\\44.wav"
+WAVE43                  WAVE    DISCARDABLE     "res\\43.wav"
+WAVE42                  WAVE    DISCARDABLE     "res\\42.wav"
+WAVE41                  WAVE    DISCARDABLE     "res\\41.wav"
+WAVE40                  WAVE    DISCARDABLE     "res\\40.wav"
+WAVE28                  WAVE    DISCARDABLE     "res\\28.wav"
+WAVE45                  WAVE    DISCARDABLE     "res\\45.wav"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  34, 22, 233, 110
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About OLE"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CTEXT           "Copyright © W.S. 1998",IDC_STATIC,135,99,98,8
+    DEFPUSHBUTTON   "OK",IDOK,135,0,98,46,WS_GROUP
+    CTEXT           "Wojciech Skrzynski",IDC_STATIC,135,89,98,8
+    CONTROL         182,IDC_STATIC,"Static",SS_BITMAP,0,0,133,109
+    CTEXT           "CICERO",IDC_STATIC,136,75,97,8
+    CTEXT           "Sztuczna inteligencja - projekt",IDC_STATIC,136,51,97,8
+    CTEXT           "Synteza mowy",IDC_STATIC,136,66,97,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_AUTOR               BITMAP  DISCARDABLE     "autor.BMP"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_FONTNAME            "Arial CE"
+    IDS_WAVEERROR           "B³¹d dostêpu do karty dŸwiêkowej"
+    IDS_FILEERROR           "Problem z odczytaniem pliku"
+END
+
+#endif    // Polish resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "CICERO Synteza Mowy\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "CICERO\0"
+            VALUE "LegalCopyright", "Copyright © W.S. 1998\0"
+            VALUE "OriginalFilename", "CICERO.EXE\0"
+            VALUE "ProductName", "CICERO Application\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif
+#include "res\Cicero.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
